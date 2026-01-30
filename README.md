@@ -1,15 +1,14 @@
 # Grocery App
-Grocery App es una aplicación para Android desarrollada en Java y Kotlin. Tiene como objetivo demostrar unos fundamentos sólidos en el desarrollo de Android, una estructura de código limpia, Adapters, Models y las mejores prácticas.
+Grocery App es una aplicación para Android desarrollada en Kotlin. Tiene como objetivo demostrar unos fundamentos sólidos en el desarrollo de Android, una estructura de código limpia, Adapters, Models y las mejores prácticas.
 
 ## 🚀 Características
 - Creacion de Adapters y Models.
 - Interfaz de usuario limpia e intuitiva.
-- Desarrollada con Java y Kotlin.
+- Desarrollada con Kotlin.
 - Sigue las mejores prácticas de Android.
 
 ## 🛠️ Tecnología utilizada
 - Android SDK
-- Java
 - Kotlin
 - Gradle
 
