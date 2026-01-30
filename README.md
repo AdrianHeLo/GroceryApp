@@ -25,8 +25,7 @@ Este proyecto se creó como proyecto de portfolio para desarrolladores Android j
 - Mejorar las animaciones de la interfaz de usuario y la experiencia de usuario.
 
 ## 📷 Capturas de pantalla
-//(Opcional: añada aquí capturas de pantalla si las hay).
 
 ## 👤 Autor
-Adrián Hernández López
+Adrián Hernández López / 
 Desarrollador Android Junior
